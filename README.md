@@ -1,6 +1,6 @@
 # Image-Manipulation
 
-This is a website created in Streamlit, which has different functionalities to manipulate images. This is app includes face recognition, resize images and change their style.
+This is a website created in Streamlit, which has different functionalities to manipulate images. This app includes face recognition, resize images and change their style.
 
 ## ScreenShots 
 * Face Detection
